@@ -4,7 +4,7 @@ Pyhon tests and exercises for Python basics
 ## Steps to clone the project 
 1. Copy the url of the repository ending with .git
 2. GitHub Desktop: Current Repository >> click on Add drop down >> Clone Repository >> click on URL tab >> paste the copied URL, choose the location then click on Clone.
-  Git Bash: navigate to the right directory and enter "git clone URL" 
+  Git Bash: navigate to the right directory and enter `git clone URL`
 3. Create your feature branch: `git checkout -b my-new-branch`
 4. Start working on the code.
 
