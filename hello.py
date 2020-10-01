@@ -35,7 +35,19 @@
 
 # calculation = 1564 > 1234 # True
 # print(calculation)
+#print(----------------)
+#assining mutiple vaules to multiple variables
+#a,b,c = 10,10.2,"apple.com"
+#print(a)
+#print(b)
+#print(c)
+print(----------------------)
+#Same value to multiple varibles
 
+#a=b=c= 10;
+#print(a)
+#print(b)
+#print(c)
 
 
 
